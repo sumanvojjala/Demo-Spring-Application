@@ -1,0 +1,4 @@
+app:
+  applicationId: ca2cf6c1-891e-4871-ae69-d4301fce8277
+  env: Development
+  host: http://10.10.1.13:8083
